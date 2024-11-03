@@ -1,9 +1,10 @@
+
 <!-- Profile Image and Name -->
 <h1 align="start">Mahmoud Atef 👨‍💻</h1>
 
 **Flutter Developer**  
 📍 *El-Minya, Egypt*  
-📧 mahmoud.atef.work@gmail.com | 📱 +20 1080154358 
+📧 mahmoud.atef.work@gmail.com | 📱 +20 1080154358
 
 ---
 
@@ -15,11 +16,24 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages**: ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-- **Frameworks & Libraries**: ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![BLoC](https://img.shields.io/badge/-BLoC-0095FF?style=flat-square)
-- **Backend Integration**: rest api
-: | 
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+### Programming Languages ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat-square&logo=Dart&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white) 
+
+### Software Principles ![OOP](https://img.shields.io/badge/OOP-2B8D52?style=flat-square&logo=Java&logoColor=white)  ![SOLID](https://img.shields.io/badge/SOLID-2B8D52?style=flat-square&logo=Java&logoColor=white)  ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2B8D52?style=flat-square&logo=Java&logoColor=white)  ![Clean Code](https://img.shields.io/badge/Clean%20Code-2B8D52?style=flat-square&logo=Java&logoColor=white) 
+
+### Frameworks and Libraries ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)  ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=Flutter&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)  ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-003B57?style=flat-square&logo=SQLite&logoColor=white) 
+
+### Backend Integration ![REST API](https://img.shields.io/badge/REST%20API-339933?style=flat-square&logo=Postman&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) 
+
+### Version Control ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
+
+### UI/UX Development ![Responsive](https://img.shields.io/badge/Responsive%20Apps-FF5722?style=flat-square&logo=Android&logoColor=white)  ![Adaptive](https://img.shields.io/badge/Adaptive%20Apps-FF5722?style=flat-square&logo=Android&logoColor=white)
+
+### Additional Skills ![Payment Integration](https://img.shields.io/badge/Payment%20Integration-FF5722?style=flat-square&logo=Stripe&logoColor=white)  ![AI Prompt Skills](https://img.shields.io/badge/AI%20Prompt%20Skills-FF5722?style=flat-square&logo=OpenAI&logoColor=white)  ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-FF5722?style=flat-square&logo=Speed&logoColor=white) 
+
+### Soft Skills ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-6DB33F?style=flat-square&logo=Learning&logoColor=white)  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6DB33F?style=flat-square&logo=Problem&logoColor=white)  ![Teamwork](https://img.shields.io/badge/Teamwork-6DB33F?style=flat-square&logo=Teamwork&logoColor=white) 
+
+
 
 ---
 
