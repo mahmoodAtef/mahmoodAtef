@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Social Media
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://linkedin.com/in/mahmoud-atef-752983237/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahmoud-atef-752983237/))
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/mahmoodatef)
 
 ---
