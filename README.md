@@ -52,8 +52,6 @@
 - **Al-Mashed Store**  
   *Building materials e-commerce app with maintenance services like plumbing and electricity*
 
-- **Smart Electricity-Saving System**  
-  *Home automation to reduce electricity consumption by monitoring room occupancy, controlling lights and devices, and managing energy usage*
 
 ---
 
