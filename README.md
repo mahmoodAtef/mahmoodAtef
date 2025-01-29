@@ -57,7 +57,8 @@
 
 ## 📈 Experience
 
-- **Flutter Developer** at [Your Company/Organization Name]  
+- **Flutter Developer  -   April 2023 - Present**
+- *Remotely, Egypt*
   *Role: Developed cross-platform mobile applications for various domains, including e-commerce, education, and productivity.*
 
 ---
