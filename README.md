@@ -1,4 +1,3 @@
-
 <!-- Profile Image and Name -->
 <h1 align="start">Mahmoud Atef 👨‍💻</h1>
 
@@ -9,63 +8,86 @@
 ---
 
 ## 🌐 Social Media
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahmoud-atef-752983237/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahmoud-atef-752983237/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/mahmoodatef)
 
 ---
+
 ## 🛠️ Skills
 
-### Programming Languages ![Dart](https://img.shields.io/badge/Dart-00599C?style=flat-square&logo=Dart&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=C%23&logoColor=white) 
+### Programming Languages: ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-### Software Principles ![OOP](https://img.shields.io/badge/OOP-2B8D52?style=flat-square&logo=Java&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-2B8D52?style=flat-square&logo=Java&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2B8D52?style=flat-square&logo=Java&logoColor=white) ![Clean Code](https://img.shields.io/badge/Clean%20Code-2B8D52?style=flat-square&logo=Java&logoColor=white) 
+### Software Principles:  ![OOP](https://img.shields.io/badge/OOP-2B8D52?style=flat-square&logo=java&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-2B8D52?style=flat-square&logo=java&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2B8D52?style=flat-square&logo=java&logoColor=white) ![Clean Code](https://img.shields.io/badge/Clean%20Code-2B8D52?style=flat-square&logo=java&logoColor=white)
 
-### Frameworks and Libraries ![Flutter](https://img.shields.io/badge/Flutter-00599C?style=flat-square&logo=Flutter&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-00599C?style=flat-square&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-00599C?style=flat-square&logo=SQLite&logoColor=white) ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-00599C?style=flat-square&logo=SQLite&logoColor=white) 
+### Frameworks and Libraries: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Backend Integration ![REST API](https://img.shields.io/badge/REST%20API-2B8D52?style=flat-square&logo=Postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-2B8D52?style=flat-square&logo=Firebase&logoColor=white) 
+### Backend Integration:  ![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=flat-square&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Version Control ![Git](https://img.shields.io/badge/Git-00599C?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-00599C?style=flat-square&logo=GitHub&logoColor=white) 
+### Version Control:  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### UI/UX Development ![Responsive](https://img.shields.io/badge/Responsive%20Apps-2B8D52?style=flat-square&logo=Android&logoColor=white) ![Adaptive](https://img.shields.io/badge/Adaptive%20Apps-2B8D52?style=flat-square&logo=Android&logoColor=white)
+### UI/UX Development: ![Responsive](https://img.shields.io/badge/Responsive%20Apps-34A853?style=flat-square&logo=android&logoColor=white) ![Adaptive](https://img.shields.io/badge/Adaptive%20Apps-34A853?style=flat-square&logo=android&logoColor=white)
 
-### Additional Skills ![Payment Integration](https://img.shields.io/badge/Payment%20Integration-00599C?style=flat-square&logo=Stripe&logoColor=white) ![AI Prompt Skills](https://img.shields.io/badge/AI%20Prompt%20Skills-00599C?style=flat-square&logo=OpenAI&logoColor=white) ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-00599C?style=flat-square&logo=Speed&logoColor=white) 
+### Additional Skills:  ![Payment Integration](https://img.shields.io/badge/Payment%20Integration-008CDD?style=flat-square&logo=stripe&logoColor=white) ![AI Prompt Skills](https://img.shields.io/badge/AI%20Prompt%20Skills-412991?style=flat-square&logo=openai&logoColor=white) ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-FF6F61?style=flat-square&logo=speedtest&logoColor=white)
 
-### Soft Skills ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-2B8D52?style=flat-square&logo=Learning&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2B8D52?style=flat-square&logo=Problem&logoColor=white) ![Teamwork](https://img.shields.io/badge/Teamwork-2B8D52?style=flat-square&logo=Teamwork&logoColor=white)
-
-
-
+### Soft Skills:  ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-2B8D52?style=flat-square&logo=learning&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2B8D52?style=flat-square&logo=problem&logoColor=white) ![Teamwork](https://img.shields.io/badge/Teamwork-2B8D52?style=flat-square&logo=teamwork&logoColor=white)
 
 ---
 
 ## 🎯 Projects
 
-- **Kalam Rabbi (Solo Project)**  
-  [![Google Play](https://img.shields.io/badge/Download-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tofy.kalam_rabbi)  
-  *Quran and Tafsir audios, live broadcasts*
+### **HawiHub (Collaboration)**  
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/mahmoodatef/hawihub)  
+*Sports stadium booking system with stadium management, booking requests, and real-time notifications.*
 
-- **BeWell**  
-  [![Google Play](https://img.shields.io/badge/View_on-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.learn.be_well)  
-  *Features: Login, Account management, section-end tests*
+### **Kalam Rabbi (Solo Project)**  
+[![Google Play](https://img.shields.io/badge/Download-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tofy.kalam_rabbi)  
+*Quranic app with Quran/Tafsir audio, live broadcasts, Tajweed PDFs, and interactive tests.*
 
-- **SRT Task Manager**  
-  *Features: Fault form management, authentication with Odoo backend, digital signature*
+### **AI-Masheed (Collaboration)**  
+[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/mahmoodatef/ai-masheed)  
+*Material store app with phone auth/OTP, in-app purchases (MyFatoorah), and user profile management.*
 
-- **Al-Mashed Store**  
-  *Building materials e-commerce app with maintenance services like plumbing and electricity*
+### **BeWell**  
+[![Google Play](https://img.shields.io/badge/View_on-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.learn.be_well)  
+*Mental health app for students with section quizzes, psychological tests, and email auth.*
 
+### **SRT Task Manager (Collaboration)**  
+*Task management app with fault form management, Odoo backend integration, and digital signatures.*
+
+### **MathCorn (Collaboration)**  
+*EdTech app with course management, in-app purchases (Paymob), and interactive content.*
 
 ---
 
 ## 📈 Experience
 
-- **Flutter Developer  -   April 2023 - Present**
-- *Remotely, Egypt*
-  *Role: Developed cross-platform mobile applications for various domains, including e-commerce, education, and productivity.*
+### **Freelance Flutter Developer**  
+*April 2023 – Present | Remotely, Egypt*  
+- Developed **6+ cross-platform mobile apps** across e-commerce, education, and productivity domains.  
+- Delivered **high-quality, performance-optimized solutions** from concept to deployment.  
+- Built long-term client trust, leading to **3 repeat collaborations**.
+
+---
+
+## 🌱 Volunteering
+
+### **Flutter Mentor @ ACM MU Team**  
+*Sep 2024 – Present*  
+- Guided students in mobile development best practices and Flutter ecosystem.
 
 ---
 
 ## 📚 Education
 
-- **Bachelor's in Computer Science**  
-  *University of Minya*
+### **B.Sc. in Computer Science**  
+*University of Minya | Oct 2021 – Jul 2025 (Expected)*
 
 ---
+
+## 🌍 Languages
+- **English**: B1 
+- **Arabic**: Native
+
+---
+
+✨ **Let’s build something amazing!**  
