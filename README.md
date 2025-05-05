@@ -61,7 +61,7 @@
 
 ## 📈 Experience
 
-### **Freelance Flutter Developer**  
+### **Flutter Developer @ Tatweer**  
 *April 2023 – Present | Remotely, Egypt*  
 - Developed **6+ cross-platform mobile apps** across e-commerce, education, and productivity domains.  
 - Delivered **high-quality, performance-optimized solutions** from concept to deployment.  
