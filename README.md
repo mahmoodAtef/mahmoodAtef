@@ -33,32 +33,6 @@
 
 ---
 
-## 🎯 Projects
-
-### **HawiHub (Collaboration)**  
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/mahmoodatef/hawihub)  
-*Sports stadium booking system with stadium management, booking requests, and real-time notifications.*
-
-### **Kalam Rabbi (Solo Project)**  
-[![Google Play](https://img.shields.io/badge/Download-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tofy.kalam_rabbi)  
-*Quranic app with Quran/Tafsir audio, live broadcasts, Tajweed PDFs, and interactive tests.*
-
-### **AI-Masheed (Collaboration)**  
-[![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/mahmoodatef/ai-masheed)  
-*Material store app with phone auth/OTP, in-app purchases (MyFatoorah), and user profile management.*
-
-### **BeWell**  
-[![Google Play](https://img.shields.io/badge/View_on-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.learn.be_well)  
-*Mental health app for students with section quizzes, psychological tests, and email auth.*
-
-### **SRT Task Manager (Collaboration)**  
-*Task management app with fault form management, Odoo backend integration, and digital signatures.*
-
-### **MathCorn (Collaboration)**  
-*EdTech app with course management, in-app purchases (Paymob), and interactive content.*
-
----
-
 ## 📈 Experience
 
 ### **Flutter Developer @ Tatweer**  
