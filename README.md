@@ -2,7 +2,6 @@
 <h1 align="start">Mahmoud Atef 👨‍💻</h1>
 
 **Flutter Developer**  
-📍 *El-Minya, Egypt*  
 📧 mahmoud.atef.work@gmail.com | 📱 +20 1080154358
 
 ---
@@ -54,7 +53,7 @@
 ## 📚 Education
 
 ### **B.Sc. in Computer Science**  
-*University of Minya | Oct 2021 – Jul 2025 (Expected)*
+*University of Minya | Oct 2021 – Jul 2025*
 
 ---
 
