@@ -58,7 +58,7 @@
 ---
 
 ## 🌍 Languages
-- **English**: B1 
+- **English**: B2
 - **Arabic**: Native
 
 ---
